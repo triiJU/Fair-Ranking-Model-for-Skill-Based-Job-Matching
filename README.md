@@ -510,7 +510,3 @@ Click **Run Full**, wait for completion, and view:
 
 ---
 
-## Conclusion
-
-This project demonstrates that job-resume matching systems can be improved using fairness-aware ranking without completely sacrificing relevance. By combining semantic embeddings, multi-factor scoring, and post-processing fairness techniques, the system produces rankings that are more explainable, inclusive, and suitable for responsible AI-driven recruitment workflows.
-```
